@@ -1,17 +1,9 @@
 {
 	"name": "adf-njl-dev",
-	"properties": {
-		"globalParameters": {
-			"GL_KV_NAME": {
-				"type": "string",
-				"value": "kv-njl-adf-cicd-dev"
-			}
-		}
-	},
-	"location": "eastus",
+	"location": "uksouth",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "d4d4dd66-94a0-444d-bb64-1f5ea75ed563",
-		"tenantId": "2aa8e0e2-e629-4970-b9d6-d534a9ac3386"
+		"principalId": "023b6ecc-7a6d-4af4-8a57-554c589fda25",
+		"tenantId": "9eafc177-552f-407a-a74f-be8d3198a3a5"
 	}
 }
